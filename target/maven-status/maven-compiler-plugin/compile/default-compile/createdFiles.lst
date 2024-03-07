@@ -1,0 +1,8 @@
+in\yarraneella\service\MovieService.class
+in\yarraneella\model\MovieResponse.class
+in\yarraneella\repository\MovieRepository.class
+in\yarraneella\MovieBookingApplication.class
+in\yarraneella\entity\Movie.class
+in\yarraneella\model\MovieRequest.class
+in\yarraneella\controller\MovieController.class
+in\yarraneella\service\MovieServiceImpl.class
